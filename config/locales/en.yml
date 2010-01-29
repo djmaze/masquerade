@@ -22,7 +22,7 @@ en:
   please_activate_it_by_clicking_the_following_link: Please activate it by clicking the following link
   my_profile: My profile
   login: Login
-  passwort: Password
+  password: Password
   my_password: My password
   old_password: Old password
   new_password_minimum_6_characters: New password <span class="note">(minimum length is 6 characters)</span>
@@ -90,10 +90,10 @@ en:
     and should contain no links.<br />If there are any links, please report to us, who sent you here."
 
   # nav
-  my_identity: my identity
-  my_profile: my profile
-  my_personas: my personas
-  my_trusted_sites: my trusted sites
+  my_identity: identity
+  my_profile: profile
+  my_personas: personas
+  my_trusted_sites: trusted sites
   logout: logout
   current_verification_request: current verification request
   login_link: login
